@@ -1,1 +1,1 @@
-TypeScript OOP, decorators, functions, ds etc.
+## TypeScript OOP
